@@ -2,6 +2,7 @@
 
 namespace CSharpPractice.DesignPatterns
 {
+    [PracticeProgram("Design Patterns", "Strategy")]
     public class DesignPatterns_Strategy
     {
         public static void Run()

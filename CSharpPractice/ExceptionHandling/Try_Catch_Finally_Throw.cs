@@ -4,6 +4,7 @@ using System.Text;
 
 namespace CSharpPractice.ExceptionHandling
 {
+    [PracticeProgram("Exception Handling", "try, catch, finally and throw")]
     public class Try_Catch_Finally_Throw
     {
         public static void Run()

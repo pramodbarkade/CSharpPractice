@@ -2,6 +2,7 @@
 
 namespace CSharpPractice.SOLID
 {
+    [PracticeProgram("SOLID", "Single Responsibility")]
     public class SolidPrinciples_SRP
     {
         public static void Run()

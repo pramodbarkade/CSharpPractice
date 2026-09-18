@@ -24,9 +24,10 @@ namespace CSharpPractice.Collections
         }
     }
 
+    [PracticeProgram("Collections", "Collection interfaces")]
     public class CollectionInterfaces
     {
-        static async Task Main()
+        public static async Task Run()
         {
             // =========================================================
             // 1. IEnumerable

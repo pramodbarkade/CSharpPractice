@@ -4,6 +4,7 @@ using System.Text;
 
 namespace CSharpPractice.Concepts
 {
+    [PracticeProgram("Modern C#", "is and as")]
     public class Is_And_As
     {
         public static void Run()

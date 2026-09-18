@@ -2,6 +2,7 @@
 
 namespace CSharpPractice.SOLID
 {
+    [PracticeProgram("SOLID", "Dependency Inversion")]
     public class SolidPrinciples_DIP
     {
         public static void Run()

@@ -14,6 +14,7 @@
         public string Name { get; set; } = "";
     }
 
+    [PracticeProgram("LINQ", "Queries, joins and aggregation")]
     public class LinqJoins2
     {
         public static void Start()

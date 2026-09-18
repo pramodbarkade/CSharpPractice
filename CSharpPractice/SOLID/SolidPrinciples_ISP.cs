@@ -2,6 +2,7 @@
 
 namespace CSharpPractice.SOLID
 {
+    [PracticeProgram("SOLID", "Interface Segregation")]
     public class SolidPrinciples_ISP
     {
         public static void Run()

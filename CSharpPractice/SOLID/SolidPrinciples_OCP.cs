@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 namespace CSharpPractice.SOLID
 {
+    [PracticeProgram("SOLID", "Open/Closed")]
     public class SolidPrinciples_OCP
     {
         public static void Run()

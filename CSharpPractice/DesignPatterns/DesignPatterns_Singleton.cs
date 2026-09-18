@@ -169,6 +169,7 @@ namespace CSharpPractice.DesignPatterns
     // DEMO
     // ============================================================
 
+    [PracticeProgram("Design Patterns", "Singleton")]
     public static class DesignPatterns_Singleton
     {
         public static void Run()

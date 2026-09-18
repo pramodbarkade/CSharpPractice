@@ -2,6 +2,7 @@
 
 namespace CSharpPractice.DesignPatterns
 {
+    [PracticeProgram("Design Patterns", "Abstract factory")]
     public class DesignPatterns_AbstractFactory
     {
         public static void Run()

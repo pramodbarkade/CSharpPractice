@@ -1,4 +1,4 @@
-﻿using CSharpPractice.Programs;
+﻿using CSharpPractice.CodingProblems;
 
 namespace CSharpPractice.Tests
 {

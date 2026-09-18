@@ -2,6 +2,7 @@
 
 namespace CSharpPractice.SOLID
 {
+    [PracticeProgram("SOLID", "Liskov Substitution")]
     public class SolidPrinciples_LSP
     {
         public static void Run()
